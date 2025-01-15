@@ -50,6 +50,11 @@ background-image: url("./images/tom1.png");
   background-image: url("./images/kick.png");
 }
 
+.p {
+
+  background-image: url("./images/hi-hat1.png");
+}
+
 .set {
   margin: 10% auto;
 }

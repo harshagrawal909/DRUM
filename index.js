@@ -49,6 +49,11 @@ function makesound(key){
             var kick= new Audio("./sounds/kick-bass.mp3");
             kick.play();
             break;
+
+        case "p":
+            var kick= new Audio("./sounds/hi-hat.mp3");
+            kick.play();
+            break;
     
         default:
             break;
